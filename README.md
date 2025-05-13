@@ -62,8 +62,6 @@ The API will run by default on: http://localhost:3000
   "categoria": "Peripherals"  
 }
 
-## Notes
+## 📌 Versão em português
+Clique [aqui](README_PT.md) para ler este README em português.
 
-- Make sure SQL Server is running and port 1433 is enabled.
-- The 'sa' login must be active and using the correct password.
-- All endpoints can be tested using Postman.
