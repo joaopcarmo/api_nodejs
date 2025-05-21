@@ -1,5 +1,7 @@
 # Product Registration API
 
+English | [Português](README_PT.md) 
+
 This is a minimal API developed in Node.js with SQL Server Express connection, allowing CRUD operations on a product table.
 
 ## Technologies used
@@ -62,6 +64,5 @@ The API will run by default on: http://localhost:3000
   "categoria": "Peripherals"  
 }
 
-## 📌 Versão em português
-Clique [aqui](README_PT.md) para ler este README em português.
+
 
